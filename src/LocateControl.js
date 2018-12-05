@@ -25,3 +25,5 @@ LocateControl.propTypes = {
   options: PropTypes.object, // Locate Options
   startDirectly: PropTypes.bool // Instantly start the locate control
 }
+
+export default LocateControl
